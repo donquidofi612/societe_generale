@@ -2,12 +2,12 @@
 
 // Solde du compte courant ajouté
 export const checkingAccountBalance = 5000; // Exemple de solde compte courant
-export const logoUrl = "https://www.attijariwafabank.com/themes/awbcorporate/logo.png"; // Exemple de solde compte courant
+export const logoUrl = "https://upload.wikimedia.org/wikipedia/fr/0/04/Bank_of_africa-logo.PNG"; // Exemple de solde compte courant
 
 // Solde du prêt ajouté
 export const loanBalance = 100000; // Exemple de solde de prêt
 
-export const accountBalance = "2 550 000,00"; // Solde du compte
+export const accountBalance = "8 850 000,00"; // Solde du compte
 export const currency = "EUR"; // Solde du compte
 export const targetProgress = 48; // Progression en %
 
@@ -17,7 +17,7 @@ export const creditCardLimit = 5000.00; // Limite carte de crédit
 export const savingsBalance = 1210000; // Solde épargne
 export const savingsGrowth = 5.2; // Croissance épargne en pourcentage
 
-export const fullname = "Jean Michel HANNON";
+export const fullname = "Nathalie Melon";
 
 // Transactions récentes mises à jour
 export const recentTransactions = [

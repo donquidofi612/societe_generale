@@ -12,8 +12,8 @@ const getImagePath = (imageName: any) => {
   return `${publicPath}${imageName}`;
 }
 useHead({
-  title: 'Banque Postale',
-  link: [{ rel: 'icon', type: 'image/png', href: getImagePath('images/brand-logos/favicon.ico') }]
+  title: 'Banque Of Africa',
+  // link: [{ rel: 'icon', type: 'image/png', href: getImagePath('images/brand-logos/favicon.ico') }]
 })
 </script>
 <style>
@@ -22,7 +22,7 @@ useHead({
 }
 
 :root {
-  --primary-rgb: 246, 116, 83; /* Définit la couleur primaire en rouge */
+  --primary-rgb: 0, 68, 122; /* Définit la couleur primaire en rouge */
 }
 </style>
 

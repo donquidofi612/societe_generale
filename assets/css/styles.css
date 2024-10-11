@@ -83,7 +83,7 @@ jsVector
 :root {
   --scrollthumb: #f3f3f3;
   --body-bg-rgb: 240, 241, 247;
-  --primary-rgb: 246, 90, 59;
+  --primary-rgb: 0, 68, 122;
   --secondary-rgb: 35, 183, 229;
   --warning-rgb: 245, 184, 73;
   --info-rgb: 73, 182, 245;
