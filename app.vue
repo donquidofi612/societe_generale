@@ -12,7 +12,7 @@ const getImagePath = (imageName: any) => {
   return `${publicPath}${imageName}`;
 }
 useHead({
-  title: 'Banque Of Africa',
+  title: 'Societe General',
   // link: [{ rel: 'icon', type: 'image/png', href: getImagePath('images/brand-logos/favicon.ico') }]
 })
 </script>
