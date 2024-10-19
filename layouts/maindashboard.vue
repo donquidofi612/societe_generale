@@ -12,7 +12,7 @@
                 <div>
                     <p class="fw-semibold fs-18 mb-0">Bon retour {{fullname}}!</p>
                     <span class="fs-semibold text-muted">Dernière connexion: {{currentDateTime}}.</span>
-                  <p class="fw-semibold text-danger mb-0">Compte bloqué</p>
+                  <p class="fw-semibold text-success mb-0">Compte actif</p>
                 </div>
                 <div class="btn-list mt-md-0 mt-2">
                     <button type="button" class="btn btn-primary btn-wave">
